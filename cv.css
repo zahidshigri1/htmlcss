@@ -1,0 +1,109 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background: darkblue;
+    color:white;
+}
+#image{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+#name{
+    letter-spacing:0.5;
+    font-weight: bold;
+}
+#addr{
+    margin-top: 20px;
+    letter-spacing: 0.1;
+}
+#mail{
+    margin-top: 20px;
+}
+#exp{
+    background:whitesmoke;
+    font-weight: bold;
+    padding: 10px;
+}
+#dot{
+    height: 10px;
+    width: 10px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+
+}
+#exp1{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 0.3fr 1.5fr 4fr;
+}
+#head1{
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+}
+#ent{
+    margin-top: 0px;
+}
+#cont{
+    background:whitesmoke;
+    font-weight: bold;
+    padding: 10px;
+}
+#skill{
+    background:whitesmoke;
+    font-weight: bold;
+    padding: 10px;
+}
+#con1{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 0.3fr 1.5fr 4fr;
+}
+#loc{
+
+    height: 15px;
+    width: 15px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 15px;
+}
+#ph{
+    height: 15px;
+    width: 15px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 15px;
+}
+#mail{
+    height: 15px;
+    width: 15px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 15px;
+}
+#space{
+    margin-left: 30px;
+}
+.topn{
+    margin-left: 20px;
+}
+#process-bar{
+background: aqua;
+height: 10px;
+margin-top: 10px;
+width:100px ;
+}
+#process{
+    background:chartreuse;
+    height: 10px;
+    width:100px ;
+}
+#java{
+    display: grid;
+    grid-template-columns: 0.3fr 1fr ;
+}
